@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HeartBox
+comment1.params=
+comment1.target=HeartBox()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ isColliding()
+numComments=4
