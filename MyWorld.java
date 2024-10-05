@@ -2,6 +2,7 @@ import mayflower.*;
 public class MyWorld extends World {
     private static Scientist scientist;
     //Creates the scientist and displays the title screen
+    
     public MyWorld() 
     {
         setBackground("img/TitleScreen/TitleScreen.png");
